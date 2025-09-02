@@ -1,0 +1,66 @@
+/*! http://responsiveslides.com v1.54 by @viljamis */
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+.infos-slide{
+position:absolute;
+bottom:0;
+background:url(/images/background_slide.svg) no-repeat;
+right:5%;
+color:white;
+padding:10px;
+width:290px;
+height:258px;
+}
+.infos-txt-slide{
+width:85%;
+position:absolute;
+top:90px;
+text-align:center;
+}
+
+
+.infos-slide h1{
+font-size:20pt;
+font-family:'InterBold',arial;
+font-weight:normal;
+text-transform:uppercase;
+}
+
+.infos-slide p{
+font-size:16px;
+}
+
+.infos-slide a{
+color:#f19300;
+}

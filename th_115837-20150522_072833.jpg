@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+<html xmlns="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" xml:lang="fr" lang="fr" >
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+		<meta name="Author" content="Agence BLUECOM" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title>LYCÉE RÉAUMUR POITIERS | Lycée des métiers industriels, services et process</title>
+		<meta name="description" content="Lycée des métiers industriels, services et process à Poitiers dans la Vienne (86). Le lycée Réaumur propose aux jeunes et adultes une offre de formation préparant aux métiers de l'Industrie... Les éléments d'organisation de la rentrée scolaire des élèves et des personnels sont mis en ligne dans l'espace familles. Pour une insertion professionnelle réussie !" />
+		<meta name="keywords" content="lycée, bac pro, formation continue, formation, cap, 3ème préparatoire, industrie, soudage, Chaudronnerie Industrielle, Maintenance, Automobiles, Moto, insertion, usinage, poitiers, vienne, nouvelle-aquitaine, métier, service, process" />
+
+		<meta property="og:site_name" content="LYCÉE RÉAUMUR POITIERS | Lycée des métiers industriels, services et process" />
+		<meta property="og:title" content="LYCÉE RÉAUMUR POITIERS | Lycée des métiers industriels, services et process" />
+		<meta property="og:description" content="" />
+		<meta property="og:url"  content="https://www.lycee-reaumur.fr/page-non-trouvee-404.html" /> 
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="https://www.lycee-reaumur.fr/obj/003618-reaumur.jpg" /> 
+		<meta property="og:image:width" content="200" />
+		<meta property="og:image:height" content="66.666666666667" />
+
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="https://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="/js/base-responsive.js"></script>
+		<script type="text/javascript" src="/js/ajax.js"></script>
+		<script type="text/javascript" src="/responsive-slide/responsiveslides.min.js"></script>
+		
+		<link rel="stylesheet" type="text/css" media="all" href="/responsive-slide/responsiveslides.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="/fonts.css?v=021011" />
+		<link rel="stylesheet" type="text/css" media="all" href="/magnific-popup.css" />
+		<link rel="stylesheet" href="/welcome.css?v=021011" type="text/css" class="welcome"/>
+
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="icon" type="image/gif" href="/favicon.gif" />
+	</head>
+	
+<body class="page">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="Global">
+	<div id="bkgEntete"></div>
+		<div id="Contents">
+			<div id="Wrapper">
+					
+		<div id="Entete"><div class="bkgEntete"></div>
+<span class="logo ordi"><a href="/index.html"><img src="/images/logo_reaumur_v2.svg" alt="Lycée Réaumur - Lycée des métiers industriels, services et process - Poitiers 86 - version desktop"/></a></span>
+<span class="logo smart"><a href="/index.html"><img src="/images/logo_reaumur_v2" alt="Lycée Réaumur - Lycée des métiers industriels, services et process - Poitiers 86 - version smartphone"/></a></span>
+<div class="entreprise-eleve-pronote ordi">
+<div class="entreprise"><ul id="menu-entreprise"><li><a><img src="/images/picto_entreprise.svg" alt="Lycée Réaumur Poitiers 86 - Espace entreprises"/>Entreprises</a>
+<ul class="enfant">
+<li><span class="sousrub"><a href="/entreprises/offre-d-emploi-ou-de-stage.html"> • Offre d'emploi ou de stage</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/offre-de-services.html"> • Offre de services</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/taxe-d-apprentissage.html"> • Taxe d'apprentissage</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/calendrier-annuel-des-stages.html"> • Calendrier annuel des stages</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/formation-continue-greta-poitou-charentes.html"> • Formation Continue - GRETA Poitou-Charentes</a></span></li>
+</ul></li></ul></div>
+<div class="links"><ul><li><a href="/offres-d-emploi.html" target="_blank"><img src="/images/picto_espace-eleves.svg" alt="Lycée Réaumur Poitiers 86 - Offres d'emploi"/>Offres d'emploi</a></li></ul></div>
+<div class="links lol"><ul><li><a href="https://mon.lyceeconnecte.fr/auth/login" target="_blank"><img src="/images/acces-pronote.png?" alt="Lycée Réaumur Poitiers 86 - Acces pronote" width="83px" height="40px"/></a></li></ul></div>
+</div>
+</div>
+<div id="empty" class="ordi"></div>
+
+	</div>
+	<div id="backtotop"></div>
+	
+	
+	<div id="MenuBtn" onclick="$('#mnusmart').toggle('fast');"><img src="/images/menu_smartphone.svg" alt="button" width="80px" /></div>
+<div id="MenuSmartphone">
+<ul id="mnusmart">
+<li><a>Lycée</a>
+<ul class="enfant">
+<li><span class="sousrub"><a href="/lycee/le-projet-d-etablissement.html">Le projet d'établissement</a></span></li>
+<li><span class="sousrub"><a href="/lycee/organigramme.html">Organigramme</a></span></li>
+<li><span class="sousrub"><a href="/lycee/resultats-aux-examens.html">Résultats aux examens</a></span></li>
+<li><span class="sousrub"><a href="/lycee/qui-etait-reaumur.html">Qui était Réaumur ?</a></span></li>
+<li><span class="sousrub"><a href="/lycee/en-video.html">En vidéo...</a></span></li>
+</ul>
+</li>
+<li><a>Formations</a>
+<ul class="enfant">
+<li><span class="sousrub"><a href="/formations/les-filieres-de-formation-du-lycee.html">Les filières de formation du Lycée</a></span></li>
+<li><span class="sousrub"><a href="/formations/la-voie-professionnelle.html">La voie professionnelle</a></span></li>
+<li><span class="sousrub"><a href="/formations/preparation-a-l-enseignement-professionnel.html">Préparation à l'Enseignement Professionnel</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-chaudronnerie-industrielle.html">Métiers de la chaudronnerie industrielle</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-l-usinage-des-metaux.html">Métiers de l'usinage des métaux</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-maintenance-automobile.html">Métiers de la maintenance automobile</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-maintenance-motocycle.html">Métiers de la maintenance motocycle</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-maintenance-industrielle.html">Métiers de la maintenance industrielle</a></span></li>
+<li><span class="sousrub"><a href="/formations/formation-continue-des-adultes.html">Formation continue des adultes</a></span></li>
+</ul>
+</li>
+<li onclick="document.location.replace('/projets+2025.html');"><a href="/projets+2025.html">Projets</a>
+</li>
+<li onclick="document.location.replace('/actualites+2025.html');"><a href="/actualites+2025.html">Actualités</a>
+</li>
+<li><a>Sport Scol.</a>
+<ul class="enfant">
+<li><span class="sousrub"><a href="/sport-scol./acad-futsal.html">Acad Futsal</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./inter-acad-basket.html">Inter-Acad Basket</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./rando-vtt.html">Rando VTT</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./unss-futsal.html">UNSS Futsal</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./association-sportive.html">Association Sportive</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./le-sport-au-lycee-reaumur.html">Le sport au Lycée Réaumur</a></span></li>
+</ul>
+</li>
+<li><a>Vie scolaire</a>
+<ul class="enfant">
+</ul>
+</li>
+<li><a>Infos pratiques</a>
+<ul class="enfant">
+<li><span class="sousrub"><a href="/infos-pratiques/mentions-legales.html">Mentions légales</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/acces-au-lycee.html">Accès au Lycée</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/dates-a-retenir.html">Dates à retenir</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/tarifs.html">Tarifs</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/stages-en-entreprises.html">Stages en Entreprises</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/pronote.html">PRONOTE</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/acces-aux-ateliers.html">Accès aux ateliers</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/infos-familles.html">Infos Familles</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/inscriptions.html">Inscriptions</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/assoc.-parents.html">Assoc. Parents</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/infos-sante.html">Infos santé</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/mini-stages-colleges.html">Mini-stages collèges</a></span></li>
+</ul>
+</li>
+<li><a>Entreprises</a>
+<ul class="enfant">
+<li><span class="sousrub"><a href="/entreprises/offre-d-emploi-ou-de-stage.html">Offre d'emploi ou de stage</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/offre-de-services.html">Offre de services</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/taxe-d-apprentissage.html">Taxe d'apprentissage</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/calendrier-annuel-des-stages.html">Calendrier annuel des stages</a></span></li>
+<li><span class="sousrub"><a href="/entreprises/formation-continue-greta-poitou-charentes.html">Formation Continue - GRETA Poitou-Charentes</a></span></li>
+</ul>
+</li>
+<li onclick="document.location.replace('/marches-publics+2025.html');"><a href="/marches-publics+2025.html">Marchés Publics</a>
+</li>
+
+<li><a href="/offres-d-emploi.html" target="_blank">Offres d'emploi</a></li>
+<li><a href="https://mon.lyceeconnecte.fr/auth/login" target="_blank">Accès PRONOTE</a></li>
+</ul>
+</div>
+	
+	
+	<div id="Menu" class="ordi">
+		<span class="home"><a href="/index.html"><img src="/images/picto_home.svg" alt="Lycée Réaumur Poitiers 86 - accueil"/></a></span>
+<ul id="menu">
+<li class="first"><a> •&nbsp;&nbsp;&nbsp;Lycée</a>
+
+<ul class="enfant">
+<li><span class="sousrub"><a href="/lycee/le-projet-d-etablissement.html"> • Le projet d'établissement</a></span></li>
+<li><span class="sousrub"><a href="/lycee/organigramme.html"> • Organigramme</a></span></li>
+<li><span class="sousrub"><a href="/lycee/resultats-aux-examens.html"> • Résultats aux examens</a></span></li>
+<li><span class="sousrub"><a href="/lycee/qui-etait-reaumur.html"> • Qui était Réaumur ?</a></span></li>
+<li><span class="sousrub"><a href="/lycee/en-video.html"> • En vidéo...</a></span></li>
+</ul></li>
+<li ><a> •&nbsp;&nbsp;&nbsp;Formations</a>
+
+<ul class="enfant">
+<li><span class="sousrub"><a href="/formations/les-filieres-de-formation-du-lycee.html"> • Les filières de formation du Lycée</a></span></li>
+<li><span class="sousrub"><a href="/formations/la-voie-professionnelle.html"> • La voie professionnelle</a></span></li>
+<li><span class="sousrub"><a href="/formations/preparation-a-l-enseignement-professionnel.html"> • Préparation à l'Enseignement Professionnel</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-chaudronnerie-industrielle.html"> • Métiers de la chaudronnerie industrielle</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-l-usinage-des-metaux.html"> • Métiers de l'usinage des métaux</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-maintenance-automobile.html"> • Métiers de la maintenance automobile</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-maintenance-motocycle.html"> • Métiers de la maintenance motocycle</a></span></li>
+<li><span class="sousrub"><a href="/formations/metiers-de-la-maintenance-industrielle.html"> • Métiers de la maintenance industrielle</a></span></li>
+<li><span class="sousrub"><a href="/formations/formation-continue-des-adultes.html"> • Formation continue des adultes</a></span></li>
+</ul></li>
+<li onclick="location.href='/projets+2025.html';"><a href="/projets+2025.html"> •&nbsp;&nbsp;&nbsp;Projets</a>
+</li>
+<li onclick="location.href='/actualites+2025.html';"><a href="/actualites+2025.html"> •&nbsp;&nbsp;&nbsp;Actualités</a>
+</li>
+<li ><a> •&nbsp;&nbsp;&nbsp;Sport Scol.</a>
+
+<ul class="enfant">
+<li><span class="sousrub"><a href="/sport-scol./acad-futsal.html"> • Acad Futsal</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./inter-acad-basket.html"> • Inter-Acad Basket</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./rando-vtt.html"> • Rando VTT</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./unss-futsal.html"> • UNSS Futsal</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./association-sportive.html"> • Association Sportive</a></span></li>
+<li><span class="sousrub"><a href="/sport-scol./le-sport-au-lycee-reaumur.html"> • Le sport au Lycée Réaumur</a></span></li>
+</ul></li>
+<li ><a> •&nbsp;&nbsp;&nbsp;Vie scolaire</a>
+
+<ul class="enfant">
+<li><span class="sousrub"><a href="/vie-scolaire/organisation.html"> • Organisation</a></span></li>
+<li><span class="sousrub"><a href="/vie-scolaire/missions.html"> • Missions</a></span></li>
+<li><span class="sousrub"><a href="/vie-scolaire/internat.html"> • Internat</a></span></li>
+<li><span class="sousrub"><a href="/vie-scolaire/restauration-self.html"> • Restauration-Self</a></span></li>
+</ul></li>
+<li ><a> •&nbsp;&nbsp;&nbsp;Infos pratiques</a>
+
+<ul class="enfant">
+<li><span class="sousrub"><a href="/infos-pratiques/mentions-legales.html"> • Mentions légales</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/acces-au-lycee.html"> • Accès au Lycée</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/dates-a-retenir.html"> • Dates à retenir</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/tarifs.html"> • Tarifs</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/stages-en-entreprises.html"> • Stages en Entreprises</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/pronote.html"> • PRONOTE</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/acces-aux-ateliers.html"> • Accès aux ateliers</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/infos-familles.html"> • Infos Familles</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/inscriptions.html"> • Inscriptions</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/assoc.-parents.html"> • Assoc. Parents</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/infos-sante.html"> • Infos santé</a></span></li>
+<li><span class="sousrub"><a href="/infos-pratiques/mini-stages-colleges.html"> • Mini-stages collèges</a></span></li>
+</ul></li>
+<li ><a> •&nbsp;&nbsp;&nbsp;Marchés Publics</a>
+
+<ul class="enfant">
+<li><span class="sousrub"><a href="/marches-publics/marche-public-mai-2023.html"> • Marché public - mai 2023</a></span></li>
+</ul></li>
+		</ul>
+	<span class="contact"><img src="/images/picto_contact.svg" alt="Lycée Réaumur Poitiers 86 - Contact" /><a href="/infos-pratiques/contact.html">Contact</a></span>
+	</div>
+	
+<div id="Corps">
+	<div class="col-gauche ordi">
+<h1 class="titre"></h1>
+</div>
+<div class="col-centrale">
+<h1 class="titre-bloc">PAGE NON TROUVEE (erreur 404)</h1>
+<div class="bloc-article">
+<h1 class="titre"></h1>
+<h2>La page que vous cherchez n'existe pas (ou plus).</h2>
+<p><br /><a href="index.html">Retourner &agrave; l'accueil du site du lyc&eacute;e-r&eacute;aumur</a></p></div>
+<div id="social"><ul><li class="partager"><img src="/images/picto_partager.svg" alt="Lycée Réaumur - Partager cette page"/></li><li>PARTAGER CETTE PAGE : </li><li class="separation"><div class="fb-share-button" expr:data-href="data:blog.canonicalUrl" data-type="button_count"></div></li><li><a href="mailto:?subject=Cette%20page%20du%20site%20du%20Lyc%C3%A9e%20R%C3%A9aumur%20pourrait%20t%27interesser&body=Lien%20vers%20la%20page%20%3A%0Ahttps%3A%2F%2Fwww.lycee-reaumur.fr%2Fpage-non-trouvee-404.html"><img src="/images/picto_email.svg" alt="Lycée Réaumur - Contactez-nous"/>COURRIEL</a></li></ul></div>
+</div>
+</div>
+
+		<!--Pied-->
+		
+
+		<div id="Pied">
+		
+		<div class="logos">
+		<a href="http://www.passpourtonavenir.com/" target="_blank"><img src="/obj/155540-passpourtonavenir.jpg" alt="Pass pour ton avenir"/></a><a href="https://www.nouvelle-aquitaine.fr/" target="_blank"><img src="/obj/112245-logo_na-horizontal_coul.jpg" alt=""/></a><img src="/obj/112451-2016_cmq_logos_nouvelles_regions_aeronautique_nouvelle_aquitaine.jpg" alt=""/><a href="https://www.ac-poitiers.fr/" target="_blank"><img src="/obj/144113-logo-rectorat-1.jpg" alt=""/></a><img src="/obj/171507-cmq-ferrocampus.jpg" alt=""/><a href="https://www.greta-poitou-charentes.fr/" target="_blank"><img src="/obj/111748-logo_greta_rep_fr.jpg" alt=""/></a>		</div>
+		
+		<div id="back-to-top" onclick="location.href='#backtotop';"><img src="/images/totop.svg" alt="Lycée Réaumur - Go back to Top" height="22px" width="44px"/></div>
+		
+
+		</div>
+		
+
+	</div>
+</div>
+<!--Google Analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32838424-1', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

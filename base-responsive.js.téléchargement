@@ -1,0 +1,44 @@
+var ddmenuitem = 0;
+var ddmenuitemClass = 0;
+
+function jsddm_open(event){
+   jsddm_close();
+   var submenu = $(this).find('ul');
+ 	ddmenuitemClass = $(this).addClass('active');
+    if(submenu){
+       ddmenuitem = submenu.css('visibility', 'visible');
+        return false;
+    }
+    return true;
+}
+
+function jsddm_close(){
+	if(ddmenuitemClass) ddmenuitemClass.removeClass('active');
+	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');
+}
+
+function jsddm_link_fix() {
+    window.location.replace($(this).attr("href"));
+}
+
+
+$(document).ready(function(){
+
+  	$('#menu-entreprise > li').bind('click', jsddm_open);
+	$('#menu-entreprise li ul li a').bind('click', jsddm_link_fix);
+  	$('#menu > li').bind('click', jsddm_open);
+	$('#menu li ul li a').bind('click', jsddm_link_fix);
+	
+	$("#slider1").responsiveSlides({
+      speed: 1200
+//      nav: true   
+    });
+    
+    $('.popup-link').magnificPopup({
+	  type: 'image',
+	  gallery:{enabled: true}
+	});
+	
+});
+   
+document.onclick = jsddm_close;

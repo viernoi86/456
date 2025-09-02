@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'InterBoldCond';
+    src: url('/fonts/interstate-boldcondensed-webfont?') format('eot'),
+    url('/fonts/interstate-boldcondensed-webfont.woff') format('woff'),
+    url('/fonts/interstate-boldcondensed-webfont.svg#fontsInterstate') format('svg');
+    url('/fonts/interstate-boldcondensed-webfont.ttf') format('ttf'),
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'InterBold';
+    src: url('/fonts/interstate-bold-webfont?') format('eot'),
+    url('/fonts/interstate-bold-webfont.woff') format('woff'),
+    url('/fonts/interstate-bold-webfont.svg#fontsInterstate') format('svg');
+    url('/fonts/interstate-bold-webfont.ttf') format('ttf'),
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'InterLight';
+    src: url('/fonts/interstate-light-webfont.eot?') format('eot'),
+    url('/fonts/interstate-light-webfont.woff') format('woff'),
+    url('/fonts/interstate-light-webfont.svg#fontsInterstate') format('svg'),
+    url('/fonts/interstate-light-webfont.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'InterCond';
+    src: url('/fonts/interstate-regularcondensed-webfont.eot?') format('eot'),
+    url('/fonts/interstate-regularcondensed-webfont.woff') format('woff'),
+    url('/fonts/interstate-regularcondensed-webfont.svg#fontsInterstate') format('svg'),
+    url('/fonts/interstate-regularcondensed-webfont.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Humanist';
+    src: url('/fonts/humanist521bt-bold-webfont.eot?') format('eot'),
+    url('/fonts/humanist521bt-bold-webfont.woff') format('woff'),
+    url('/fonts/humanist521bt-bold-webfont.svg#fontsInterstate') format('svg'),
+    url('/fonts/humanist521bt-bold-webfont.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+html, body {
+   height: 100%;
+   background-repeat:repeat-x;
+   background-position: top center;
+   border: 0px solid transparent;
+   font-size: 1em;
+   margin: 0px 0px 0px 0px;
+   min-height: 100%;
+   padding: 0px 0px 0px 0px;
+   width: 100%;
+
+}
+
+img, object, embed, canvas, video, audio, picture {
+max-width: 100%;
+height: auto;
+_width: 100%; /* IE6 seulement */
+} 
+
+#Contents{ 
+width:100%;
+max-width:980px;
+margin:auto;
+height:100%;
+}
+
+#Pied ul li{display:inline;}
+strong{font-weight:bold;}
